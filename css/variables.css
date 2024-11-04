@@ -1,0 +1,28 @@
+:root{
+    --bgBlue: #27354A;
+    --bgRed: #EA5048;
+    --yellowaccent: #EBCE9A;
+    --graycol: #D3D3D3;
+    --bgYellow: #FAFAD2;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: var(--bgBlue);
+    color: white;
+    text-align: center; 
+    padding: 1rem;
+}
